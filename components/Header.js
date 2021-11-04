@@ -17,7 +17,7 @@ function Header() {
 
             {/* Right */}
             <div className="flex space-x-4 items-center justify-end text-gray-500">
-                <p class="hidden md:inline">Become a host</p>
+                <p className="hidden md:inline">Become a host</p>
                 <GlobeAltIcon className="h-6 cursor-pointer" />
                 <div className="flex items-center space-x-2 border-2 p-2 rounded-full">
                     <MenuIcon className="h-6" />
